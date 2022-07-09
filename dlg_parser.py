@@ -90,3 +90,4 @@ def structure(dlg_file, number=5):
         
 
 parse_it("/run/media/karthi/SOFT/Docking/Hari/2v55/")
+
