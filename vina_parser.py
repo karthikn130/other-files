@@ -21,6 +21,7 @@ def vina_score(vina_log):
             
         
 
-vina_score("vina_log.txt")
 
+if __name__=="__main__":
+    vina_score("vina_log.txt")
 
