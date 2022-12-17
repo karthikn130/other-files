@@ -2,7 +2,7 @@ import os
 from pymol import cmd
 # dlg parser and 3d images generation 
 #provide main docking folder
-
+#
 
 def save_image(file):
     base_name = file.split("\\")[-2]
